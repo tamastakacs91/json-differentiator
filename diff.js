@@ -140,7 +140,7 @@ function differences(one, other, path="", diffs=[]) {
       }
     }
     else {
-      // Won't be needed
+      // Won't be needed for now
     }
   }
 
